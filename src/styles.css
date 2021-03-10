@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
+.outer-container {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#age-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+#age-display {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
