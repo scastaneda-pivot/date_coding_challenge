@@ -8,7 +8,7 @@
 
 4. When finished, test it out by changing the age several times and making sure it outputs the correct age
 
-5. Submit your challenge by turning in a link to your codesandbox repo. Be sure to push your finish code back up to github.
+5. Submit your challenge by turning in a link to your codesandbox repo on Google Classroom. Be sure to push your finish code back up to github.
 
 ### Once you clone the repo you will notice there is an error. This error will be fixed once you complete all the steps to write the function.
 
